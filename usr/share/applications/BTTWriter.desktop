@@ -1,0 +1,12 @@
+[Desktop Entry]
+
+Type=Application
+Name=BTT Writer
+Comment=Desktop version of BTT Writer
+StartupWMClass=BTT-Writer
+TryExec=/opt/BTT-Writer/BTT-Writer
+Exec=/opt/BTT-Writer/BTT-Writer
+Icon=/opt/BTT-Writer/resources/app/icons/icon.png
+#Icon=/usr/share/icons/btt-icon-big.png
+Terminal=false
+Categories=Translation;Languages;

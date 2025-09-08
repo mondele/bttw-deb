@@ -1,0 +1,8 @@
+Package: btt-writer
+Version: 1.5.3
+Section: Office
+Priority: optional
+Architecture: amd64
+Maintainer: helpdesk@techadvancement.com
+Depends: git
+Description: Translate the Bible offline while using various resources.
